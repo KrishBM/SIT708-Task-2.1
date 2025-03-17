@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Task 2.1</string>
+    <string-array name="conversion_types">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <!-- Length Units -->
+    <string-array name="length_units">
+        <item>Centimeter (cm)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+        <item>Yard (yd)</item>
+        <item>Kilometer (km)</item>
+        <item>Mile (mi)</item>
+    </string-array>
+
+    <!-- Weight Units -->
+    <string-array name="weight_units">
+        <item>Gram (g)</item>
+        <item>Kilogram (kg)</item>
+        <item>Ounce (oz)</item>
+        <item>Pound (lb)</item>
+        <item>Ton (ton)</item>
+    </string-array>
+
+    <!-- Temperature Units -->
+    <string-array name="temperature_units">
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+        <item>Kelvin (K)</item>
+    </string-array>
+</resources>
